@@ -1,0 +1,23 @@
+{
+  "name": "AnimeRNGLegends",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "Shared"
+      }
+    },
+    "ServerScriptService": {
+      "Server": {
+        "$path": "Server"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "Client"
+        }
+      }
+    }
+  }
+}
